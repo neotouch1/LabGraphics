@@ -1,0 +1,11 @@
+D:\Visual проекты\C++\Filters_Lab\Filters_Lab\bin\Debug\Filters_Lab.exe.config
+D:\Visual проекты\C++\Filters_Lab\Filters_Lab\bin\Debug\Filters_Lab.exe
+D:\Visual проекты\C++\Filters_Lab\Filters_Lab\bin\Debug\Filters_Lab.pdb
+D:\Visual проекты\C++\Filters_Lab\Filters_Lab\obj\Debug\Filters_Lab.csproj.AssemblyReference.cache
+D:\Visual проекты\C++\Filters_Lab\Filters_Lab\obj\Debug\Filters_Lab.csproj.SuggestedBindingRedirects.cache
+D:\Visual проекты\C++\Filters_Lab\Filters_Lab\obj\Debug\Filters_Lab.Form1.resources
+D:\Visual проекты\C++\Filters_Lab\Filters_Lab\obj\Debug\Filters_Lab.Properties.Resources.resources
+D:\Visual проекты\C++\Filters_Lab\Filters_Lab\obj\Debug\Filters_Lab.csproj.GenerateResource.cache
+D:\Visual проекты\C++\Filters_Lab\Filters_Lab\obj\Debug\Filters_Lab.csproj.CoreCompileInputs.cache
+D:\Visual проекты\C++\Filters_Lab\Filters_Lab\obj\Debug\Filters_Lab.exe
+D:\Visual проекты\C++\Filters_Lab\Filters_Lab\obj\Debug\Filters_Lab.pdb

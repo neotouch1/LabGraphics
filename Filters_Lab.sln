@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filters_Lab", "Filters_Lab\Filters_Lab.csproj", "{20A4BC0D-BE6A-4734-935E-2DDA0DE75DAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20A4BC0D-BE6A-4734-935E-2DDA0DE75DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A4BC0D-BE6A-4734-935E-2DDA0DE75DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A4BC0D-BE6A-4734-935E-2DDA0DE75DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A4BC0D-BE6A-4734-935E-2DDA0DE75DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ADC995E-9F3E-49CD-82A6-41ABDFA28F2F}
+	EndGlobalSection
+EndGlobal
